@@ -2,11 +2,10 @@ import streamlit as st
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
-import tkinter
 import matplotlib
 import altair as alt
 from scipy.stats import ranksums
-matplotlib.use( 'tkagg' )
+
 
 ## PARTE 00 - WEB SCRAPPING ###############################################################################################################
 from urllib.request import urlopen
