@@ -6,6 +6,4 @@ scipy==1.9.1
 seaborn==0.11.2
 streamlit==1.17.0
 requests
-urllib
 urlopen
-bs4
