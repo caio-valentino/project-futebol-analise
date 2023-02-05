@@ -5,3 +5,4 @@ pandas==1.4.4
 scipy==1.9.1
 seaborn==0.11.2
 streamlit==1.17.0
+bs4
